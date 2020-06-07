@@ -1,1 +1,5 @@
-# CMSC190_JDFernandez
+# Image-Based Crop Leaf Disease Automatic Identification Using Convolutional Neural Network (CNN)
+
+Globally, crop leaf diseases have been an enormous burden on farmers and a major threat to food security. The latest breakthrough in machine learning paved the way for automatic identification of crop leaf diseases. Using the PlantVillage dataset consisted of 35, 263 images, a convolutional neural network was trained to identify 19 crop-disease class labels. The trained model yielded an overall accuracy of 98.742\%, mean recall of 88.431\%, mean precision of 89.073\%, and mean F1-Score of 88.408\% on 5-fold cross-validation, demonstrating the feasibility of this approach. The proposed convolutional neural network model provides great potential and direction in related crop disease control and machine learning studies.
+
+Jomarey D. Fernandez and Maria Art Antonette D. Clari\~{n}o
